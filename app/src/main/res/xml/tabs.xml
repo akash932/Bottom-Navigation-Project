@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tabs xmlns:android="http://schemas.android.com/apk/res/android">
+    <tab
+        drawable="@drawable/home"
+        text="@string/home" />
+
+    <tab
+        drawable="@drawable/picture"
+        text="@string/pictures" />
+
+    <tab
+        drawable="@drawable/diaphragm"
+        text="@string/camera" />
+
+    <tab
+        drawable="@drawable/menu"
+        text="@string/menu" />
+
+    <tab
+        drawable="@drawable/more"
+        text = "@string/more"/>
+
+</tabs>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/hp/AndroidStudioProjects/BottomNavigation/app/src/main/res/drawable/ic_facebook.xml" value="0.1945" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/BottomNavigation/app/src/main/res/drawable/ic_google.xml" value="0.1945" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/BottomNavigation/app/src/main/res/layout/activity_3.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/BottomNavigation/app/src/main/res/layout/activity_bottom_navigation.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/BottomNavigation/app/src/main/res/layout/activity_main.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/BottomNavigation/app/src/main/res/layout/activity_sign_in.xml" value="0.17239583333333333" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/BottomNavigation/app/src/main/res/layout/activity_sign_up.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/BottomNavigation/app/src/main/res/layout/fragment_camera.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/BottomNavigation/app/src/main/res/layout/fragment_home.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/BottomNavigation/app/src/main/res/layout/fragment_home2.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/BottomNavigation/app/src/main/res/layout/fragment_more.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/BottomNavigation/app/src/main/res/layout/fragment_more2.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/BottomNavigation/app/src/main/res/layout/fragment_picturtes.xml" value="0.17239583333333333" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/BottomNavigation/app/src/main/res/layout/fragment_products.xml" value="0.17239583333333333" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/BottomNavigation/app/src/main/res/layout/sample_show_user.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/BottomNavigation/app/src/main/res/menu/bottom_nav_menu.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/BottomNavigation/app/src/main/res/menu/menu.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/BottomNavigation/app/src/main/res/menu/menu_items.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/BottomNavigation/app/src/main/res/xml/tabs.xml" value="0.18645833333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
